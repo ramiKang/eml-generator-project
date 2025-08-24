@@ -11,6 +11,9 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "eml-generator": "^1.0.0"
+    "csv-parse": "^6.1.0",
+    "eml-generator": "^1.0.0",
+    "install": "^0.13.0",
+    "npm": "^10.9.3"
   }
 }
